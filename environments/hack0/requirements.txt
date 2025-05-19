@@ -1,0 +1,3 @@
+datasets>=2.0.0
+atroposlib>=0.2.1
+wandb>=0.15.0
